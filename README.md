@@ -10,6 +10,6 @@
   <img title="NextJS" alt="NextJS" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" hspace="5" />
   <img title="Aws" alt="Aws" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" hspace="5" />
   <img title="MySQL" alt="MySQL" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" hspace="5" />
-  <img title="PostgreSQl" alt="PostgreSQl" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" hspace="5" />
+  <img title="PostgreSQL" alt="PostgreSQL" height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" hspace="5" />
   <img align="right" alt="gif" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejgxcjdsZWEycXI2dGhkNXFzOWJuOXdud2FqOXltamVqZmJtZ2NtbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 </p>
